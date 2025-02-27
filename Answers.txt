@@ -1,0 +1,38 @@
+hash1.txt=The Legend of Zelda: Breath of the Wild
+format=raw-md5
+wordlist=Games.txt
+
+hash2.txt=Dark Souls III
+format=raw-md5
+wordlist=Games.txt
+
+hash3.txt=The Last of Us
+format=raw-sha256
+wordlist=Games.txt
+
+hash4.txt=Ghost of Tsushima
+format=raw-sha1
+wordlist=Games.txt
+
+hash5.txt=Portal
+format=whirlpool
+wordlist=Games.txt
+
+ntlm.txt=Yakuza 0
+format=nt
+wordlist=Games.txt
+
+SingleHash.txt=Jok3r
+format=raw-sha512
+
+secure.zip=BioShock
+unzip=zip2john secure.zip > zip_hash.txt
+wordlist=Games.txt
+
+secure.rar=StarCraft
+unrar=rar2john secure.rar > rar_hash.txt
+wordlist=Games.txt
+
+id_rsa=Mass Effect
+id_rsa_hash=ssh2john id_rsa > id_rsa_hash
+wordlist=Games.txt
