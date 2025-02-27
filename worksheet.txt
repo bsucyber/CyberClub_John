@@ -1,0 +1,57 @@
+task1
+Find out what type of hash in task1
+Hash1.txt hash type: 
+Hash2.txt hash type: 
+Hash3.txt hash type: 
+Hash4.txt hash type: 
+Hash5.txt hash type: 
+
+Crack the hash
+Hash1.txt: 
+Hash2.txt: 
+Hash3.txt: 
+Hash4.txt: 
+Hash5.txt: 
+
+
+task2
+Find out what type of hash in task2
+ntlm.txt hash type:
+
+Crack the hash
+ntlm.txt: 
+
+
+task3
+Find out what type of hash in task3
+SingleHash.txt hash type: 
+
+Crack the hash
+SingleHash.txt: 
+
+
+task4
+Make a hash file from the zip in task4
+
+Crack the hash
+secure.zip: 
+
+Unzip the file
+What is the message inside:
+
+
+task5
+Make a hash file from the rar in task5
+
+Crack the hash
+secure.rar: 
+
+Unrar the file
+What is the message inside:
+
+
+task6
+Make a hash file from id_rsa in task6
+
+Crack the hash
+id_rsa: 
